@@ -93,3 +93,11 @@ cd your_repository
 
 **Note:** *This bot is for educational purposes and may not provide accurate answers for all questions.*
 
+
+## 5. Screenshots
+
+![Image from question 1](screenshots/screenshot1.png)
+
+![Image from question 2](screenshots/screenshot2.png)
+
+![Image from question 3](screenshots/screenshot3.png)
